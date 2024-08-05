@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Nos dias de hoje, no Brasil, Saúde Pública é o nome dado às práticas e medidas de responsabilidade do Estado para garantir que todo cidadão tenha acesso à saúde física, mental e social. Essas ações são também olhadas de perto e, muitas vezes, coordenadas pela OMS (Organização Mundial da Saúde)",
         alternativas: [
             {
                 texto: "Isso é assustador!",
