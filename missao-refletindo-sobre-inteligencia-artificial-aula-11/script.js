@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "é um direito de todos e visa ao pleno desenvolvimento humano por meio do processo de ensino-aprendizagem"
             }
         ]
     },
