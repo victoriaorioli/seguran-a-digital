@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: "é um direito de todos e visa ao pleno desenvolvimento humano por meio do processo de ensino-aprendizagem"
+                afirmacao: "Saúde Pública: prática social de natureza interdisciplinar, enquanto ação coletiva tanto do Estado como da sociedade civil, destinada a proteger e melhorar a saúde das pessoas. Caracterizam-se por tarefas de condução, regulação, modulação do financiamento, vigilância do acesso e harmonização da provisão.."
             }
         ]
     },
