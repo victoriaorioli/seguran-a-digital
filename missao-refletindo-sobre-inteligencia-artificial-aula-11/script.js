@@ -22,8 +22,8 @@ const perguntas = [
         enunciado: "Como está a saúde pública atualmente no Brasil?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "A saúde no Brasil tem avanços históricos como a descentralização, a municipalização de ações e serviços, a melhoria e a ampliação da atenção à saúde.",
+                afirmacao: "A saúde no Brasil tem avanços históricos como a descentralização, a municipalização de ações e serviços, a melhoria e a ampliação da atenção à saúde.."
             },
             {
                 texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
