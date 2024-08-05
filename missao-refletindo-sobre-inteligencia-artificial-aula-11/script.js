@@ -26,8 +26,8 @@ const perguntas = [
                 afirmacao: "A saúde no Brasil tem avanços históricos como a descentralização, a municipalização de ações e serviços, a melhoria e a ampliação da atenção à saúde.."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "A Constituição brasileira de 1988 diz que a saúde é direito de todos e dever do Estado.",
+                afirmacao: "A saúde no Brasil tem avanços históricos como a descentralização, a municipalização de ações e serviços, a melhoria e a ampliação da atenção à saúde, o fomento à vigilância em saúde e sanitária e o controle social com a atuação dos conselhos de saúde"
             }
         ]
     },
