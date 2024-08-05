@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                afirmacao: "Qual o principal objetivo da saúde pública? "
             },
             {
                 texto: "Isso é maravilhoso!",
